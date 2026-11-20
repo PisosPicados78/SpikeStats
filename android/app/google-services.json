@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "293264619904",
+    "project_id": "volleyball-scouting-82f98",
+    "storage_bucket": "volleyball-scouting-82f98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293264619904:android:291cbcedfc3860371a2965",
+        "android_client_info": {
+          "package_name": "com.example.volleyball_scouting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293264619904-8gtdbcmkkie5sn7m7gh09cdouhtc0bk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.volleyball_scouting",
+            "certificate_hash": "0fb1c67fc3049f6a62bc7e0df149c6ae4c86542e"
+          }
+        },
+        {
+          "client_id": "293264619904-h2fsdusq10fjpkcef273mv96ouql78gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw2Rij5SZfF0z2en-ZcTgof8gdP3sIIzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293264619904-h2fsdusq10fjpkcef273mv96ouql78gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293264619904-p8ku20vcdrv9e572pr7j92vd7oisb53n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "scout.voley.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
